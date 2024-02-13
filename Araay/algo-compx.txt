@@ -6,3 +6,6 @@ What is Algorithms
 => Time complexity - Run time of program
 => Space complexity - take size of program.
 
+1. Worst time complexity => O
+2. Best time compplexity => Theta
+3. Average time complexity => Ohm
