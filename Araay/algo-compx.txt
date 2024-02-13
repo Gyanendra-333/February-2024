@@ -1,0 +1,8 @@
+What is Algorithms
+
+1. execute code line by line.
+2. step by Step run .
+
+=> Time complexity - Run time of program
+=> Space complexity - take size of program.
+
