@@ -7,3 +7,10 @@ there are three condition in recursion
 1. Base condition
 2. Recursive condition
 3. stop Base condition
+
+
+
+Type of recursion 
+
+1. Direct recursion => Call Function Directly.
+2. Indirect recursion => Call the Function Indirectly.
