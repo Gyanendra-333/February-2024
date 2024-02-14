@@ -1,0 +1,9 @@
+Re + Cursion => Loop again and again.
+
+recursion all about loop.
+
+there are three condition in recursion
+
+1. Base condition
+2. Recursive condition
+3. stop Base condition
