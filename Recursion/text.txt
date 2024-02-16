@@ -14,3 +14,7 @@ Type of recursion
 
 1. Direct recursion => Call Function Directly.
 2. Indirect recursion => Call the Function Indirectly.
+
+
+Head And Tail Recursion.
+CallStack
