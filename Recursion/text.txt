@@ -17,4 +17,4 @@ Type of recursion
 
 
 Head And Tail Recursion.
-CallStack
+CallStack Function. => Works in LIFO Method.
