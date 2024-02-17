@@ -1,0 +1,7 @@
+Stack
+
+Basic operation in Stack
+1. push method.=> Add element in last
+2. pop method. => Remove element in last.
+
+Follow FILO or LIFO approach.
