@@ -1,0 +1,10 @@
+
+=> Queue is Linera Data Structure.
+
+=> Follow FIFO or LILO Approach.
+
+Front And Rear. => 
+Enqueue And Dequeue.
+
+Enqueue => Add Element in Front.
+Dequeue => Remove Element in Rear.
