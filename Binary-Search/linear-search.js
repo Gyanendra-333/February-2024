@@ -1,5 +1,5 @@
 let data = [1, 2, 34, 5, 7, 8, 9];
-let find = 8;
+let find = 9;
 let position;
 
 for (let i = 0; i < data.length; i++) {
