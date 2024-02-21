@@ -1,0 +1,7 @@
+Logic Building.
+
+Length property.
+how to use loop.
+how to traverse elements.
+
+=> Anagram - atc => ctc,tac.
