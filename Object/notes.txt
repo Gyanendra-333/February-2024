@@ -1,0 +1,9 @@
+Object  => Key : Value Pair
+
+{
+Name:Ram,
+Class:B,
+Grade:B
+}
+
+object is a Data Structure.
