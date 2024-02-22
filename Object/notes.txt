@@ -7,3 +7,5 @@ Grade:B
 }
 
 object is a Data Structure.
+
+Map Data Structure => key-value pair also.
