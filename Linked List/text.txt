@@ -1,0 +1,7 @@
+Linked List 
+
+Value => Next ,Head, Tail
+
+Val | Next | 
+
+Traversing in Linked List
