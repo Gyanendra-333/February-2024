@@ -1,0 +1,9 @@
+
+Bianry Search Tree 
+ 
+ => BST is  a non-Linear Data Structure.
+ => It is hirarically Data Structure.
+
+ => Binary = Has Minimum 2 Nodes.
+ => Left Node < Root Node < Right Node
+ => 
