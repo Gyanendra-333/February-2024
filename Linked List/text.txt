@@ -5,3 +5,5 @@ Value => Next ,Head, Tail
 Val | Next | 
 
 Traversing in Linked List
+Insert Node
+Search Node
