@@ -6,4 +6,12 @@ Bianry Search Tree
 
  => Binary = Has Minimum 2 Nodes.
  => Left Node < Root Node < Right Node
- => 
+ 
+ Tree Travesring => Means Traverse each and every node in Tree.
+
+A. DFS => There are three types.
+B. BFS
+
+1. Inorder
+2. Prorder
+3. Postorder
