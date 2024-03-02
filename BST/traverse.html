@@ -65,6 +65,20 @@
                     this.preOrder(root.right);
                 }
             }
+            inOrder(root) {
+                if (root) {
+                    this.inOrder(root.left);
+                    console.warn(root.value);
+                    this.inOrder(root.right);
+                }
+            }
+            postOrder(root) {
+                if (root) {
+                    this.postOrder(root.left);
+                    this.postOrder(root.right);
+                    console.warn(root.value);
+                }
+            }
         }
         let bst = new BSTree();
         bst.makeTree(20);
@@ -72,6 +86,8 @@
         bst.makeTree(40);
         bst.search(bst.root, 30);
         bst.preOrder(bst.root);
+        bst.inOrder(bst.root);
+        bst.postOrder(bst.root);
 
         console.warn(bst);
 
