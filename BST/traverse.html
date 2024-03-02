@@ -58,12 +58,20 @@
                     return this.search(root.right, val);
                 }
             }
+            preOrder(root) {
+                if (root) {
+                    console.warn(root.value);
+                    this.preOrder(root.left);
+                    this.preOrder(root.right);
+                }
+            }
         }
         let bst = new BSTree();
         bst.makeTree(20);
         bst.makeTree(30);
         bst.makeTree(40);
         bst.search(bst.root, 30);
+        bst.preOrder(bst.root);
 
         console.warn(bst);
 
