@@ -18,5 +18,7 @@ push(40);
 push(50);
 pop();
 pop();
+pop();
+
 
 console.log(data);
